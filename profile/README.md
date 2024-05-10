@@ -1,4 +1,4 @@
-## Velkommen Elsysere
+## Velkommen Elsysere 👋
 Denne organisasjonen er laget for å samle forskjellige hjemmelagede verktøy, som kan komme til nytte gjennom studietiden ved [MTELSYS](https://www.ntnu.no/studies/mtelsys).
 
 <!--
