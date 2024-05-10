@@ -1,5 +1,6 @@
-## Hi there 👋
-# MTELSYS is an organisation self-made, commonly used tools during the study programme [Electronics Systems Design and Innovation at NTNU](https://www.ntnu.edu/studies/mtelsys), Trondheim.
+## Hi there
+# students at MTELSYS 👋
+The is an organisation for gathering self-made, commonly used tools during the study programme [Electronics Systems Design and Innovation at NTNU](https://www.ntnu.edu/studies/mtelsys), Trondheim.
 
 <!--
 
