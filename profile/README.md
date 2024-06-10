@@ -28,4 +28,4 @@ Dette prosjektet er laget av [MTELSYS](https://www.ntnu.no/studies/mtelsys) stud
 - **Ian Philip Eglin** | [@ipeglin](https://github.com/ipeglin) 
 - **Tryggve Klevstul-Jensen** [@Tryggvekj](https://github.com/Tryggvekj)
 
-**NB!** Initiativet er inspirert av prosjektet [mortensine.no](https://mortensine.no), utviklet av [@roryff](https://github.com/roryff/) og [@sirihelenew](https://github.com/sirihelenew) for å blant annet gi studentene motivasjon for å møte opp på campus for å jobbe sammen mot eksamener.
+**NB!** Initiativet er inspirert av prosjektet [mortensine.no](https://mortensine.no), utviklet av [@roryff](https://github.com/roryff/) og [@sirihelenew](https://github.com/sirihelenew), for å blant annet gi studentene motivasjon for å møte opp på campus for å jobbe sammen mot eksamener.
